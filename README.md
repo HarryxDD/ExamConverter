@@ -15,7 +15,7 @@
   </p>
   
 
-<!-- ![GitHub language count](https://img.shields.io/github/languages/count/HarryxDD/OpticalMarkRecognition?logo=GitHub) ![GitHub followers](https://img.shields.io/github/followers/HarryxDD?color=%23&style=social) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/HarryxDD/OpticalMarkRecognition?logo=GitHub) -->
+<!-- ![GitHub language count](https://img.shields.io/github/languages/count/HarryxDD/ExamConverter?logo=GitHub) ![GitHub followers](https://img.shields.io/github/followers/HarryxDD?color=%23&style=social) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/HarryxDD/ExamConverter?logo=GitHub) -->
 </p>
 <br />
 <p align="center" width="100%">
